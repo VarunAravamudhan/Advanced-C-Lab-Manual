@@ -30,6 +30,7 @@ void display() {
 }
 ```
 Output:
+
 ![IMG-20250505-WA0006 1](https://github.com/user-attachments/assets/5bec0046-a8b9-435b-bf0b-b4a3627d6b01)
 
 
@@ -73,6 +74,7 @@ void pop(){
 ```
 
 Output:
+
 ![IMG-20250505-WA0007 1](https://github.com/user-attachments/assets/f5029a75-3593-4161-b823-3f9b99d6349e)
 
 
@@ -115,6 +117,7 @@ struct Node
 
 
 Output:
+
 ![image](https://github.com/user-attachments/assets/65780f6c-e585-49ba-832a-1096a7ddb962)
 
 
