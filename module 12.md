@@ -198,6 +198,7 @@ Program:
  }
 ```
 Output:
+
 ![image](https://github.com/user-attachments/assets/c11e2eaf-eccc-4dbf-b6db-67f5bea8b81a)
 
 
